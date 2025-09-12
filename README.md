@@ -64,6 +64,14 @@
 - Implemented secure admin authentication using Redux Toolkit, which reduced login errors by 40%.
 - Created category-wise career pages that simplified navigation and cut search time by 25%.
 
+### 🌟 Recent Projects
+
+**🚀 Featured Projects:**
+- **[TravelMinds](https://github.com/Sai-Dangade777/TravelMinds)** - AI-powered travel planning app with React & Firebase (2 ⭐)
+- **[Anonymous Chat App](https://github.com/Sai-Dangade777/Anonymous-Chat-Application)** - Real-time chat using Node.js & Socket.IO (1 ⭐)
+- **[Personal Finance Manager](https://github.com/Sai-Dangade777/Personal-Finance-Manager)** - Full-stack financial tracking solution (1 ⭐)
+- **[Pipeline Builder](https://github.com/Sai-Dangade777/Pipeline-Builder)** - DevOps pipeline visualization tool (1 ⭐)
+
 ---
 
 ### 🏆 GitHub Trophies & Achievements
@@ -82,3 +90,35 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sai-dangade777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-dangade777&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
 </p>
+
+### 🚀 Repository Highlights
+
+<p align="center">
+  <a href="https://github.com/Sai-Dangade777/TravelMinds">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai-dangade777&repo=TravelMinds&theme=tokyonight&hide_border=true" alt="TravelMinds" />
+  </a>
+  <a href="https://github.com/Sai-Dangade777/Anonymous-Chat-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai-dangade777&repo=Anonymous-Chat-Application&theme=tokyonight&hide_border=true" alt="Anonymous Chat Application" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sai-Dangade777/Personal-Finance-Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai-dangade777&repo=Personal-Finance-Manager&theme=tokyonight&hide_border=true" alt="Personal Finance Manager" />
+  </a>
+  <a href="https://github.com/Sai-Dangade777/Pipeline-Builder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai-dangade777&repo=Pipeline-Builder&theme=tokyonight&hide_border=true" alt="Pipeline Builder" />
+  </a>
+</p>
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-dangade777&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 📊 Current Stats Summary
+- 🏆 **14** Public Repositories
+- ⭐ **6** Total Stars Received  
+- 🔄 **Active** in Full-Stack Development
+- 💻 **JavaScript** | **React** | **Node.js** Primary Stack
