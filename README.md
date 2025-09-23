@@ -70,15 +70,39 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sai-dangade777&theme=tokyonight&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sai-dangade777&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-dangade777&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sai-dangade777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-dangade777&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-dangade777&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-dangade777&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sai-dangade777&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sai-dangade777&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sai-dangade777&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sai-dangade777&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
