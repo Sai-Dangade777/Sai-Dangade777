@@ -84,13 +84,17 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sai-dangade777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-dangade777&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-dangade777&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sai-dangade777&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributions" />
 </p>
 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-dangade777&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-dangade777&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
