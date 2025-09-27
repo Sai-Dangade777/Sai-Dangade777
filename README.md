@@ -27,7 +27,7 @@
 - 🔭 I’m passionate about developing scalable backend systems and creating seamless user experiences with React.
 - 🌱 I’m currently exploring advanced concepts in system design and cloud-native technologies.
 - 👯 I’m looking to collaborate on impactful open-source projects, especially in the web development space.
-- 💬 Ask me about **Java, JavaScript, React, Node.js, and the MERN stack**.
+- 💬 Ask me about **Java, JavaScript, React, Node.js, Socket.IO, Firebase, and the MERN stack**.
 - 📫 How to reach me: **saiprasaddangade.sae.comp@gmail.com**
 - ⚡ Fun fact: I enjoy breaking down complex problems into simple, elegant solutions.
 
@@ -43,6 +43,10 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -84,13 +88,17 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sai-dangade777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-dangade777&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-dangade777&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sai-dangade777&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributions" />
 </p>
 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-dangade777&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-dangade777&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
